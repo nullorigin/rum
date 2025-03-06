@@ -1,0 +1,124 @@
+[submodule "wine"]
+	path = wine
+	url = https://github.com/nullorigin/wine.git
+	branch = main
+[submodule "dxvk"]
+	path = dxvk
+	url = https://github.com/nullorigin/dxvk.git
+	branch = main
+[submodule "directx-headers"]
+	path = directx-headers
+	url = https://github.com/nullorigin/directx-headers.git
+	branch = main
+[submodule "spirv-headers"]
+	path = spirv-headers
+	url = https://github.com/nullorigin/spirv-headers.git
+	branch = main
+[submodule "vulkan-headers"]
+	path = vulkan-headers
+	url = https://github.com/nullorigin/vulkan-headers.git
+	branch = main
+[submodule "vulkan-loader"]
+	path = vulkan-loader
+	url = https://github.com/nullorigin/vulkan-loader.git
+	branch = main
+[submodule "spirv-tools"]
+	path = spirv-tools
+	url = https://github.com/nullorigin/spirv-tools.git
+	branch = main
+[submodule "wayland"]
+	path = wayland
+	url = https://github.com/nullorigin/wayland.git
+	branch = main
+[submodule "alsa-lib"]
+	path = alsa-lib
+	url = https://github.com/nullorigin/alsa-lib.git
+	branch = main
+[submodule "gnulib"]
+	path = gnulib
+	url = https://github.com/nullorigin/gnulib.git
+	branch = main
+[submodule "libx11"]
+	path = libx11
+	url = https://github.com/nullorigin/libx11.git
+	branch = main
+[submodule "libxkbcommon"]
+	path = libxkbcommon
+	url = https://github.com/nullorigin/libxkbcommon.git
+	branch = main
+[submodule "libxrender"]
+	path = libxrender
+	url = https://github.com/nullorigin/libxrender.git
+	branch = main
+[submodule "libxi"]
+	path = libxi
+	url = https://github.com/nullorigin/libxi.git
+	branch = main
+[submodule "libxfixes"]
+	path = libxfixes
+	url = https://github.com/nullorigin/libxfixes.git
+	branch = main
+[submodule "fontconfig"]
+	path = fontconfig
+	url = https://github.com/nullorigin/fontconfig.git
+	branch = main
+[submodule "freetype"]
+	path = freetype
+	url = https://github.com/nullorigin/freetype.git
+	branch = main
+[submodule "pulseaudio"]
+	path = pulseaudio
+	url = https://github.com/nullorigin/pulseaudio.git
+	branch = main
+[submodule "libxrandr"]
+	path = libxrandr
+	url = https://github.com/nullorigin/libxrandr.git
+	branch = main
+[submodule "libxcomposite"]
+	path = libxcomposite
+	url = https://github.com/nullorigin/libxcomposite.git
+	branch = main
+[submodule "libxcursor"]
+	path = libxcursor
+	url = https://github.com/nullorigin/libxcursor.git
+	branch = main
+[submodule "dbus"]
+	path = dbus
+	url = https://github.com/nullorigin/dbus.git
+	branch = main
+[submodule "gstreamer"]
+	path = gstreamer
+	url = https://github.com/nullorigin/gstreamer.git
+	branch = main
+[submodule "libglvnd"]
+	path = libglvnd
+	url = https://github.com/nullorigin/libglvnd.git
+	branch = main
+[submodule "libunwind"]
+	path = libunwind
+	url = https://github.com/nullorigin/libunwind.git
+	branch = main
+[submodule "mesa"]
+	path = mesa
+	url = https://github.com/nullorigin/mesa.git
+	branch = main
+[submodule "glslang"]
+	path = glslang
+	url = https://github.com/nullorigin/glslang.git
+	branch = main
+[submodule "libunistring"]
+	path = libunistring
+	url = https://github.com/nullorigin/libunistring.git
+	branch = main
+[submodule "libtasn1"]
+	path = libtasn1
+	url = https://github.com/nullorigin/libtasn1.git
+	branch = main
+[submodule "opencl-headers"]
+	path = opencl-headers
+	url = https://github.com/nullorigin/opencl-headers.git
+	branch = main
+[submodule "libxext"]
+	path = libxext
+	url = https://github.com/nullorigin/libxext.git
+	branch = main
